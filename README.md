@@ -7,7 +7,7 @@
 
 <p align="center">
   💻 I'm currently working on <b>C# Windows Forms</b> and <b>MySQL</b> projects<br>
-  🎯 I’m exploring how to build <b>ticketing systems</b> and <b>POS applications</b><br>
+  🎯 I’m exploring how to build <b>unreal game project</b> and <b>networking</b><br>
   ☕ I love <b>coffee</b> and watching <b>NetworkChuck</b> ☕
 </p>
 
