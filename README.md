@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20there,%20I'm%20Marco!%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Full-Stack%20Developer%20from%20the%20Philippines%20🇵🇭&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20there,%20I'm%20Marco!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Full-Stack%20Developer%20from%20the%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=mrtandico&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/mrtandico?style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+<img src="https://komarev.com/ghpvc/?username=mmtandico&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/mmtandico?style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 
 </div>
 
@@ -22,12 +22,46 @@
 
 ```ts
 const marco = {
+  name         : "Marco",
   location     : "Philippines 🇵🇭",
-  currentWork  : ["C# Windows Forms", "MySQL Projects"],
-  exploring    : ["Unreal Engine 5", "Game Networking", "Multiplayer Systems"],
-  learning     : ["Docker", "Cloud Architecture", "WebSockets"],
-  hobbies      : ["☕ Coffee addict", "📺 NetworkChuck fan", "🎮 Gaming"],
-  funFact      : "I debug with console.log and I'm not ashamed 😄"
+  role         : "Full-Stack Developer & CS Student",
+
+  exploring    : [
+    "Unreal Engine 5 — building immersive game worlds",
+    "Game Networking & real-time Multiplayer Systems",
+    "3D environment design & Blueprint scripting",
+  ],
+
+  learning     : [
+    "Docker & containerized deployments",
+    "Cloud Architecture (AWS / Azure basics)",
+    "WebSockets & real-time web apps",
+    "REST API design & microservices",
+  ],
+
+  strongSuits  : [
+    "Building desktop apps with C# Windows Forms & .NET",
+    "Designing relational databases in MySQL / MariaDB",
+    "Creating dynamic web UIs with React & Bootstrap",
+    "Writing clean backend code in PHP & Laravel",
+  ],
+
+  goals2025    : [
+    "Ship my first Unreal Engine multiplayer demo",
+    "Contribute to an open-source project",
+    "Master Docker & CI/CD pipelines",
+    "Build a full SaaS side project from scratch",
+  ],
+
+  hobbies      : [
+    "☕  Coffee — fuel for late-night coding sessions",
+    "📺  NetworkChuck on YouTube — networking nerd",
+    "🎮  Gaming — especially open-world & survival games",
+    "📖  Reading tech blogs & dev.to articles",
+  ],
+
+  funFact      : "I debug with console.log and I'm not ashamed 😄",
+  philosophy   : "Write code that you'd be proud to read 6 months later.",
 };
 ```
 
@@ -126,7 +160,7 @@ const marco = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mrtandico&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mmtandico&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
@@ -147,7 +181,7 @@ const marco = {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrtandico)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmtandico)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
 
@@ -159,6 +193,6 @@ const marco = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
-**✨ "Code is poetry written for machines but read by humans." ✨**
+**✨ "Write code that you'd be proud to read 6 months later." ✨**
 
 </div>
