@@ -46,7 +46,7 @@ const marco = {
     "Writing clean backend code in PHP & Laravel",
   ],
 
-  goals2025    : [
+  goals    : [
     "Ship my first Unreal Engine multiplayer demo",
     "Contribute to an open-source project",
     "Master Docker & CI/CD pipelines",
