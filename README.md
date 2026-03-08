@@ -24,7 +24,7 @@
 const marco = {
   name         : "Marco",
   location     : "Philippines 🇵🇭",
-  role         : "Full-Stack Developer & CS Student",
+  role         : "Full-Stack Developer & BSIT Student",
 
   exploring    : [
     "Unreal Engine 5 — building immersive game worlds",
