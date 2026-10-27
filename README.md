@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```ts
 const marco = {
@@ -54,22 +54,22 @@ const marco = {
   ],
 
   hobbies      : [
-    "☕  Coffee — fuel for late-night coding sessions",
-    "📺  NetworkChuck on YouTube — networking nerd",
-    "🎮  Gaming — especially open-world & survival games",
-    "📖  Reading tech blogs & dev.to articles",
+    "Coffee — fuel for late-night coding sessions",
+    "NetworkChuck on YouTube — networking nerd",
+    "Gaming — especially open-world & survival games",
+    "Reading tech blogs & dev.to articles",
   ],
 
-  funFact      : "I debug with console.log and I'm not ashamed 😄",
+  funFact      : "I debug with console.log and I'm not ashamed ",
   philosophy   : "Write code that you'd be proud to read 6 months later.",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🎨 Front-End
+### Front-End
 
 <div align="center">
 
@@ -85,7 +85,7 @@ const marco = {
 
 </div>
 
-### ⚙️ Back-End
+### Back-End
 
 <div align="center">
 
@@ -101,7 +101,7 @@ const marco = {
 
 </div>
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
@@ -115,7 +115,7 @@ const marco = {
 
 </div>
 
-### 🎮 Game Development
+### Game Development
 
 <div align="center">
 
@@ -125,7 +125,7 @@ const marco = {
 
 </div>
 
-### 🔧 DevOps & Tools
+### DevOps & Tools
 
 <div align="center">
 
@@ -143,7 +143,7 @@ const marco = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -156,7 +156,7 @@ const marco = {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -166,7 +166,7 @@ const marco = {
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -183,6 +183,6 @@ const marco = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
 
-**✨ "Write code that you'd be proud to read 6 months later." ✨**
+** "Write code that you'd be proud to read 6 months later." **
 
 </div>
