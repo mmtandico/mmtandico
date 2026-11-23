@@ -14,13 +14,6 @@ I build high-performance Spigot/Paper Minecraft networks, engineer web applicati
  
 </samp>
 <br/>
-<div align="center">
-|  **23+**  |  **98 WPM**  |  **7+**  |  **21+**  |
-|:---------:|:------------:|:--------:|:---------:|
-| <sub>VERIFIED BADGES</sub> | <sub>TYPING SPEED</sub> | <sub>MINECRAFT SERVERS</sub> | <sub>PROJECTS SHIPPED</sub> |
- 
-</div>
-<br/>
 ## `about`
  
 ```ts
