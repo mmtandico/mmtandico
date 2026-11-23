@@ -2,11 +2,10 @@
 <img align="right" width="220" src="assets/portrait.png" alt="Marco Miguel T. Andico" />
 -->
  
+<div align="center">
+<img src="assets/header.svg" alt="Marco Miguel T. Andico — Minecraft Server Admin, Video Editor, 3D Artist, Full-Stack Developer" width="100%" />
+</div>
 <samp>
-# Marco Miguel T. Andico
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=808080&vCenter=true&width=640&height=30&lines=Minecraft+Server+Administrator;Lead+Promotional+Video+Editor;3D+Artist+%E2%80%94+Blender;Full-Stack+Software+Developer)](https://mmta.it.com)
- 
 I build high-performance Spigot/Paper Minecraft networks, engineer web applications through SDLC, Agile, AI-SDD and TDD, edit promotional campaigns, and model in Blender.
  
 📍 Marilao, Bulacan, Philippines &nbsp;·&nbsp; ⌨️ 98 WPM (95% acc.)
@@ -125,27 +124,6 @@ const marco = {
 ![Figma](https://img.shields.io/badge/Figma-24292f?style=flat-square&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white)
  
-<br/>
-## `github`
- 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mmtandico&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmtandico&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=111111&text_color=52525b&icon_color=111111">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtandico&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=a1a1aa">
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtandico&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=111111&text_color=52525b">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mmtandico&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=a1a1aa&sideNums=ffffff&dates=71717a">
-  <img width="60%" alt="Streak" src="https://streak-stats.demolab.com/?user=mmtandico&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&currStreakNum=111111&sideLabels=52525b&sideNums=111111&dates=71717a">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mmtandico&hide_border=true&area=true&bg_color=0d1117&color=a1a1aa&line=ffffff&point=ffffff&area_color=ffffff">
-  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mmtandico&hide_border=true&area=true&bg_color=ffffff&color=52525b&line=111111&point=111111&area_color=111111">
-</picture>
-</div>
 <br/>
 ## `contact`
  
