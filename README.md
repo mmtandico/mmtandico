@@ -8,7 +8,7 @@
 <samp>
 I build high-performance Spigot/Paper Minecraft networks, engineer web applications through SDLC, Agile, AI-SDD and TDD, edit promotional campaigns, and model in Blender.
  
-📍 Marilao, Bulacan, Philippines &nbsp;·&nbsp; ⌨️ 98 WPM (95% acc.)
+📍 Marilao, Bulacan, Philippines
  
 [**mmta.it.com**](https://mmta.it.com) &nbsp;/&nbsp; [github](https://github.com/mmtandico) &nbsp;/&nbsp; [linkedin](https://linkedin.com/in/yourprofile) &nbsp;/&nbsp; [email](mailto:your@email.com)
  
@@ -71,51 +71,28 @@ const marco = {
 <br/>
 ## `stack`
  
-<sub>**FRONTEND**</sub><br/>
-![HTML5](https://img.shields.io/badge/HTML5-24292f?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-24292f?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-24292f?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-24292f?style=flat-square&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-24292f?style=flat-square&logo=flutter&logoColor=white)
+<sub>Programming languages, video editing suites, graphics design software, and 3D modeling tools.</sub>
  
-<sub>**BACKEND**</sub><br/>
-![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-24292f?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-24292f?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-24292f?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-24292f?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-24292f?style=flat-square&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
+<sub><b>VIDEO EDITING &amp; POST-PRODUCTION</b></sub><br/>
+<kbd>Adobe Premiere Pro</kbd> <kbd>DaVinci Resolve</kbd> <kbd>CapCut</kbd> <kbd>Filmora</kbd> <kbd>Promotional Video Editing</kbd> <kbd>Motion Graphics</kbd>
  
-<sub>**DATABASES**</sub><br/>
-![MySQL](https://img.shields.io/badge/MySQL-24292f?style=flat-square&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-24292f?style=flat-square&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-24292f?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-24292f?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-24292f?style=flat-square&logo=redis&logoColor=white)
+<sub><b>ENGINEERING WORKFLOWS &amp; AI METHODOLOGIES</b></sub><br/>
+<kbd>SDLC (Software Development Life Cycle)</kbd> <kbd>Agile / Scrum Methodology</kbd> <kbd>AI Spec-Driven Development (SDD)</kbd> <kbd>Test-Driven Development (TDD)</kbd> <kbd>CI/CD Pipelines</kbd> <kbd>AI Agent Harnesses &amp; Prompt Specs</kbd> <kbd>Sprint Planning &amp; Backlog Management</kbd>
  
-<sub>**GAME / 3D / MEDIA**</sub><br/>
-![Minecraft](https://img.shields.io/badge/Spigot_/_Paper-24292f?style=flat-square&logo=minecraft&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-24292f?style=flat-square&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-24292f?style=flat-square&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-24292f?style=flat-square&logo=cplusplus&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-24292f?style=flat-square&logo=adobepremierepro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-24292f?style=flat-square&logo=davinciresolve&logoColor=white)
+<sub><b>COMPUTER LANGUAGES &amp; FRAMEWORKS</b></sub><br/>
+<kbd>C</kbd> <kbd>C#</kbd> <kbd>Java</kbd> <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Flutter</kbd> <kbd>Vite</kbd> <kbd>TailwindCSS</kbd>
  
-<sub>**TOOLS**</sub><br/>
-![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-24292f?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-24292f?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white)
+<sub><b>GRAPHICS, DESIGN &amp; 3D</b></sub><br/>
+<kbd>Adobe Photoshop</kbd> <kbd>Photopea</kbd> <kbd>Canva</kbd> <kbd>CorelDraw</kbd> <kbd>Blender 3D</kbd> <kbd>AutoCAD</kbd> <kbd>Technical Drafting</kbd> <kbd>Animation</kbd> <kbd>Figma</kbd>
+ 
+<sub><b>MINECRAFT DEV &amp; SERVER INFRASTRUCTURE</b></sub><br/>
+<kbd>Java Plugin Dev</kbd> <kbd>Paper / Spigot API</kbd> <kbd>Velocity Proxy</kbd> <kbd>LuckPerms Architecture</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>REST APIs</kbd>
+ 
+<sub><b>DATABASES &amp; PRODUCTIVITY</b></sub><br/>
+<kbd>MySQL</kbd> <kbd>MongoDB</kbd> <kbd>PostgreSQL</kbd> <kbd>SQLite</kbd> <kbd>Redis</kbd> <kbd>MS Office Suite</kbd> <kbd>Google Workspace</kbd>
+ 
+<sub><b>DEVOPS, TOOLS &amp; GAME DEV</b></sub><br/>
+<kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>VS Code</kbd> <kbd>Postman</kbd> <kbd>Unreal Engine</kbd> <kbd>C++</kbd> <kbd>UE Blueprints</kbd>
  
 <br/>
 ## `contact`
