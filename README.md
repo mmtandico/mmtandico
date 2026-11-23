@@ -1,188 +1,167 @@
-<div align="center">
-
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20there,%20I'm%20Marco!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Full-Stack%20Developer%20from%20the%20Philippines%20%F0%9F%87%B5%F0%9F%87%AD&descAlignY=58&descSize=18&animation=fadeIn"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DF9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;C%23+%26+.NET+Enthusiast+%F0%9F%92%BB;Unreal+Engine+Explorer+%F0%9F%8E%AE;Always+learning+new+things+%F0%9F%8C%B1;Coffee+%E2%98%95+%2B+Code+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
+<!-- OPTIONAL: halftone portrait. Drop your image at assets/portrait.png, then uncomment.
+<img align="right" width="220" src="assets/portrait.png" alt="Marco Miguel T. Andico" />
+-->
+ 
+<samp>
+# Marco Miguel T. Andico
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=808080&vCenter=true&width=640&height=30&lines=Minecraft+Server+Administrator;Lead+Promotional+Video+Editor;3D+Artist+%E2%80%94+Blender;Full-Stack+Software+Developer)](https://mmta.it.com)
+ 
+I build high-performance Spigot/Paper Minecraft networks, engineer web applications through SDLC, Agile, AI-SDD and TDD, edit promotional campaigns, and model in Blender.
+ 
+📍 Marilao, Bulacan, Philippines &nbsp;·&nbsp; ⌨️ 98 WPM (95% acc.)
+ 
+[**mmta.it.com**](https://mmta.it.com) &nbsp;/&nbsp; [github](https://github.com/mmtandico) &nbsp;/&nbsp; [linkedin](https://linkedin.com/in/yourprofile) &nbsp;/&nbsp; [email](mailto:your@email.com)
+ 
+</samp>
 <br/>
-
-<!-- Profile Views + Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=mmtandico&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/mmtandico?style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-
+<div align="center">
+|  **23+**  |  **98 WPM**  |  **7+**  |  **21+**  |
+|:---------:|:------------:|:--------:|:---------:|
+| <sub>VERIFIED BADGES</sub> | <sub>TYPING SPEED</sub> | <sub>MINECRAFT SERVERS</sub> | <sub>PROJECTS SHIPPED</sub> |
+ 
 </div>
-
----
-
-## About Me
-
+<br/>
+## `about`
+ 
 ```ts
 const marco = {
-  name         : "Marco",
-  location     : "Philippines 🇵🇭",
-  role         : "Full-Stack Developer & BSIT Student",
-
-  exploring    : [
-    "Unreal Engine 5 — building immersive game worlds",
-    "Game Networking & real-time Multiplayer Systems",
-    "3D environment design & Blueprint scripting",
+  role        : "Information & Communications Technology specialist",
+  based_in    : "Marilao, Bulacan, PH",
+  workflow    : ["SDLC", "Agile", "AI Spec-Driven Development", "TDD"],
+ 
+  now         : [
+    "Building high-performance Spigot/Paper networks",
+    "Shipping web apps with React + TypeScript",
+    "Creating 3D models and assets in Blender",
+    "Exploring Unreal Engine 5 and multiplayer networking",
   ],
-
-  learning     : [
-    "Docker & containerized deployments",
-    "Cloud Architecture (AWS / Azure basics)",
-    "WebSockets & real-time web apps",
-    "REST API design & microservices",
-  ],
-
-  strongSuits  : [
-    "Building desktop apps with C# Windows Forms & .NET",
-    "Designing relational databases in MySQL / MariaDB",
-    "Creating dynamic web UIs with React & Bootstrap",
-    "Writing clean backend code in PHP & Laravel",
-  ],
-
-  goals    : [
-    "Ship my first Unreal Engine multiplayer demo",
-    "Contribute to an open-source project",
-    "Master Docker & CI/CD pipelines",
-    "Build a full SaaS side project from scratch",
-  ],
-
-  hobbies      : [
-    "Coffee — fuel for late-night coding sessions",
-    "NetworkChuck on YouTube — networking nerd",
-    "Gaming — especially open-world & survival games",
-    "Reading tech blogs & dev.to articles",
-  ],
-
-  funFact      : "I debug with console.log and I'm not ashamed ",
-  philosophy   : "Write code that you'd be proud to read 6 months later.",
+ 
+  learning    : ["Docker & CI/CD", "Cloud (AWS / Azure)", "WebSockets & real-time apps", "Microservices"],
+ 
+  philosophy  : "Write code that you'd be proud to read 6 months later.",
 };
 ```
-
----
-
-## Tech Stack & Tools
-
-### Front-End
-
+ 
+<br/>
+## `services`
+ 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Custom Web Application Development</b><br/>
+      <sub>End-to-end full-stack apps with React, TypeScript and Node.js. Built for speed, responsiveness and scale.</sub><br/><br/>
+      <sub><code>› React / Vite frontends</code><br/>
+      <code>› REST &amp; GraphQL endpoints</code><br/>
+      <code>› Database design &amp; integration</code><br/>
+      <code>› SEO &amp; performance optimization</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Minecraft Server &amp; Plugin Development</b><br/>
+      <sub>Custom Java plugins, Spigot/Paper configuration, economy systems and network setups for SMPs and competitive servers.</sub><br/><br/>
+      <sub><code>› Spigot / Paper / Velocity plugins</code><br/>
+      <code>› Server configuration &amp; optimization</code><br/>
+      <code>› Custom mechanics &amp; mini-games</code><br/>
+      <code>› Database &amp; LuckPerms architecture</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>3D Creation &amp; Model Conversion (Blender)</b><br/>
+      <sub>Custom 3D models, asset optimization, texture mapping and format conversion for in-game items, cosmetics and web 3D.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>UI/UX &amp; Frontend Engineering</b><br/>
+      <sub>Designs translated into clean, maintainable code with modern CSS, Framer Motion animations and pixel-perfect layouts.</sub>
+    </td>
+  </tr>
+</table>
+<br/>
+## `stack`
+ 
+<sub>**FRONTEND**</sub><br/>
+![HTML5](https://img.shields.io/badge/HTML5-24292f?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-24292f?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-24292f?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-24292f?style=flat-square&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-24292f?style=flat-square&logo=flutter&logoColor=white)
+ 
+<sub>**BACKEND**</sub><br/>
+![Java](https://img.shields.io/badge/Java-24292f?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-24292f?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-24292f?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-24292f?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-24292f?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-24292f?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
+ 
+<sub>**DATABASES**</sub><br/>
+![MySQL](https://img.shields.io/badge/MySQL-24292f?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-24292f?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-24292f?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-24292f?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-24292f?style=flat-square&logo=redis&logoColor=white)
+ 
+<sub>**GAME / 3D / MEDIA**</sub><br/>
+![Minecraft](https://img.shields.io/badge/Spigot_/_Paper-24292f?style=flat-square&logo=minecraft&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-24292f?style=flat-square&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-24292f?style=flat-square&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-24292f?style=flat-square&logo=cplusplus&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-24292f?style=flat-square&logo=adobepremierepro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-24292f?style=flat-square&logo=davinciresolve&logoColor=white)
+ 
+<sub>**TOOLS**</sub><br/>
+![Git](https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-24292f?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-24292f?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-24292f?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24292f?style=flat-square&logo=linux&logoColor=white)
+ 
+<br/>
+## `github`
+ 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mmtandico&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mmtandico&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff&title_color=111111&text_color=52525b&icon_color=111111">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtandico&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=a1a1aa">
+  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtandico&layout=compact&hide_border=true&langs_count=8&bg_color=ffffff&title_color=111111&text_color=52525b">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mmtandico&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=a1a1aa&sideNums=ffffff&dates=71717a">
+  <img width="60%" alt="Streak" src="https://streak-stats.demolab.com/?user=mmtandico&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&currStreakNum=111111&sideLabels=52525b&sideNums=111111&dates=71717a">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mmtandico&hide_border=true&area=true&bg_color=0d1117&color=a1a1aa&line=ffffff&point=ffffff&area_color=ffffff">
+  <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mmtandico&hide_border=true&area=true&bg_color=ffffff&color=52525b&line=111111&point=111111&area_color=111111">
+</picture>
 </div>
-
-### Back-End
-
+<br/>
+## `contact`
+ 
+<samp>
+Open to collaborations, freelance work and OJT/internship opportunities.
+ 
+[mmta.it.com](https://mmta.it.com) &nbsp;/&nbsp; [email](mailto:your@email.com) &nbsp;/&nbsp; [linkedin](https://linkedin.com/in/yourprofile) &nbsp;/&nbsp; [instagram](https://instagram.com/yourprofile) &nbsp;/&nbsp; [x](https://x.com/yourprofile)
+ 
+</samp>
+<br/>
 <div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<sub><samp>"Write code that you'd be proud to read 6 months later."</samp></sub>
+ 
+<br/><br/>
+ 
+![Profile views](https://komarev.com/ghpvc/?username=mmtandico&style=flat-square&color=24292f&label=VIEWS)
+ 
 </div>
-
-### Databases
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL Workbench](https://img.shields.io/badge/SQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### Game Development
-
-<div align="center">
-
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Blueprints](https://img.shields.io/badge/UE_Blueprints-0E1128?style=for-the-badge&logo=unrealengine&logoColor=1fb2ff)
-
-</div>
-
-### DevOps & Tools
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mmtandico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mmtandico&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmtandico&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmtandico&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-## Connect with Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmtandico)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
-
-** "Write code that you'd be proud to read 6 months later." **
-
-</div>
+ 
